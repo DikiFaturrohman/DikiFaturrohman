@@ -1,15 +1,17 @@
-## Hi there :wave:, I'm Diki :3
+<table>
+  <tr>
+    <td>
+
+## Hi there 👋, I'm Diki :3  
 I'm a software developer passionate about web, mobile, game technologies and open-source.
 
-<img src="https://i.imgur.com/BcsXJuz.gif" width="300"/>
+- 🔭 I’m currently working on: My portfolio website  
+- 🌱 I’m currently learning: Blender and Jetpack Compose  
+- 💬 Ask me about: Game Dev, Laravel, or UI design  
+- 📫 How to reach me: dikifaturrohman17@gmail.com  
+- ⚡ Fun fact: I Watch Anime  
 
-
-
-- 🔭 I’m currently working on: My portfolio website
-- 🌱 I’m currently learning: Blender and Jetpack Compose
-- 💬 Ask me about: Game Dev, Laravel, or UI design
-- 📫 How to reach me: dikifaturrohman17@gmail.com
-- ⚡ Fun fact: I Watch Anime
+---
 
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -20,6 +22,14 @@ I'm a software developer passionate about web, mobile, game technologies and ope
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+
+</td>
+    <td align="center">
+      <img src="https://i.imgur.com/BcsXJuz.gif" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 <!--
 **DikiFaturrohman/DikiFaturrohman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
