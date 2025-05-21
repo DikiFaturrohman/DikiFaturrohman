@@ -25,7 +25,7 @@ I'm a software developer passionate about web, mobile, game technologies and ope
 
 </td>
     <td align="center">
-      <img src="https://i.imgur.com/BcsXJuz.gif" width="300"/>
+      <img src="https://i.imgur.com/BcsXJuz.gif" width="400"/>
     </td>
   </tr>
 </table>
