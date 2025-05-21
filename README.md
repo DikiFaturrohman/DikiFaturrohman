@@ -10,7 +10,11 @@ I'm a software developer passionate about web technologies and open-source.
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+
 <!--
 **DikiFaturrohman/DikiFaturrohman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
