@@ -1,5 +1,8 @@
-## Hi there 👋, I'm Diki :3
-I'm a software developer passionate about web technologies and open-source.
+## Hi there :wave:, I'm Diki :3
+I'm a software developer passionate about web, mobile, game technologies and open-source.
+
+<img src="[https://media.giphy.com/media/abcd1234/giphy.gif](https://imgur.com/a/YQZM3RG)" width="300"/>
+
 
 - 🔭 I’m currently working on: My portfolio website
 - 🌱 I’m currently learning: Blender and Jetpack Compose
@@ -14,6 +17,8 @@ I'm a software developer passionate about web technologies and open-source.
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
 
 <!--
 **DikiFaturrohman/DikiFaturrohman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
