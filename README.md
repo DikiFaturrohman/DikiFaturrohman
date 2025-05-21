@@ -1,7 +1,7 @@
 ## Hi there :wave:, I'm Diki :3
 I'm a software developer passionate about web, mobile, game technologies and open-source.
 
-<img src="[https://media.giphy.com/media/abcd1234/giphy.gif](https://imgur.com/a/YQZM3RG)" width="300"/>
+<img src="https://imgur.com/a/YQZM3RG" width="400"/>
 
 
 - 🔭 I’m currently working on: My portfolio website
