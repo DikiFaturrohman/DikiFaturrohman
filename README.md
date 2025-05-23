@@ -2,7 +2,7 @@
   <tr>
     <td>
 
-## Hi there 👋, I'm Diki :3  
+## Hi there 👋, I'm Diki Faturrohman
 I'm a software developer passionate about web, mobile, game technologies and open-source.
 - 🔭 I’m currently working on: My portfolio website  
 - 🌱 I’m currently learning: Blender and Jetpack Compose  
