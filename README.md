@@ -4,15 +4,11 @@
 
 ## Hi there 👋, I'm Diki :3  
 I'm a software developer passionate about web, mobile, game technologies and open-source.
-
 - 🔭 I’m currently working on: My portfolio website  
 - 🌱 I’m currently learning: Blender and Jetpack Compose  
 - 💬 Ask me about: Game Dev, Laravel, or UI design  
 - 📫 How to reach me: dikifaturrohman17@gmail.com  
-- ⚡ Fun fact: I Watch Anime  
-
 ---
-
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
