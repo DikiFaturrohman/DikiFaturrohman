@@ -6,7 +6,7 @@
 I'm a software developer passionate about web, mobile, game technologies and open-source.
 - 🔭 I’m currently working on: My Portofolio Website  
 - 🌱 I’m currently learning: Blender and Jetpack Compose  
-- 💬 Ask me about: Game Dev, Laravel, or UI design  
+- 💬 Ask me about: Game Dev, Laravel, or UI Design  
 - 📫 How to reach me: dikifaturrohman17@gmail.com  
 ---
 ### 🛠 Tech Stack
